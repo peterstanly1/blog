@@ -1,5 +1,6 @@
-      <h3>User Manual V 0.28</h3>
-<p class="big"><h5>
+User Manual V 0.28
+
+
 /Passions<br>
 Primary:-<br>
 Social Justice<br>
@@ -35,4 +36,4 @@ If I am a jerk, do something dumb or generally seem oblivious, please please ple
 If you have suggestions for this document please let me know so I can add them. It is a work in progress.<br>
 <br>        
 Find my latest brain dump here -> <a href="https://www.peterstanly.com/blog" target="_blank">Carbon + Silicon</a><br>
-        </h5></P>
+
