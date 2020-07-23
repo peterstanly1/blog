@@ -1,9 +1,3 @@
-<section class="User Manual">
-   
-      <article> 
-   <br>
-   <br>
-   <br>
       <h3>User Manual V 0.28</h3>
 <p class="big"><h5>
 /Passions<br>
@@ -42,5 +36,3 @@ If you have suggestions for this document please let me know so I can add them. 
 <br>        
 Find my latest brain dump here -> <a href="https://www.peterstanly.com/blog" target="_blank">Carbon + Silicon</a><br>
         </h5></P>
-  </article>
-    </section>
